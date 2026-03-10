@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class LocalSceneManager : MonoBehaviour
 {
-    //시작
     public void OnClickStart()
     {
         SceneManager.LoadScene("");
